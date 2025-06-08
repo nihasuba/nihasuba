@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nihashini Subatharan</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h2 align="center">A passionate Full stack developer</h2>
+
+<h3>About me</h3>
+ I am a third-year undergraduate at Uva Wellassa University of Sri Lanka, specializing in software development
+ and dynamic web applications. I possess strong technical expertise in React, PHP, MySQL, Django, Java,
+ C, MongoDB, Node.js, and Object-Oriented Programming (OOP). My passion lies in designing and building
+ dynamic, user-friendly web pages and applications that solve real-world problems. With hands-on experience in
+ both front-end and back-end technologies, I have successfully developed and implemented responsive, interactive,
+ and scalable solutions. I am enthusiastic about learning new technologies and collaborating with teams to build
+ impactful software.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihasuba&label=Profile%20views&color=0e75b6&style=flat" alt="nihasuba" /> </p>
 
